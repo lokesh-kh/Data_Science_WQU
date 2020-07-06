@@ -1,4 +1,4 @@
-Applied Data Science module by WorldQuant University.
+### Applied Data Science module by WorldQuant University.
 This continuing education module consists of 2 units. 
 ### Unit-1 Scientific Computing and Python for Data Science
 This Unit is designed so that students gain a comprehensive introduction to scientific computing, Python, and the related tools data scientists use to succeed in their work.
